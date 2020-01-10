@@ -20,3 +20,9 @@ It can increase its accuracy by increasing the number of pieces.
 
 
 Dataset consist in pictures of flower (zoom in in the picture for proof)
+
+
+# Here is a good example
+
+
+![ferrari](https://github.com/Dumiy/ComputerVision-III/blob/master/Tema%201/cod/mozaic.png)
